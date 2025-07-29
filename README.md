@@ -1,61 +1,35 @@
-<h1 align="left">Hi there 👋 Welcome to my Github</h1>
+# Hi there, I'm Thu Vu 👋
 
-###
+I’m currently pursuing my **M.S. in Computational Biology at Carnegie Mellon University (School of Computer Science)** with a strong focus on **single-cell data integration, predictive modeling for immunology, and generative AI in biology**.
 
-<p align="left">My name is Thu Vu. Passionate in coding and problem-solving. Seeking opportunities to learn and create impact</p>
+---
 
-###
+## 🔬 **About Me**
+- 🎓 **Education:**  
+  - M.S. Computational Biology – **Carnegie Mellon University** (2024–2026)  
+  - B.S. Computer Science – **New York University**, Summa Cum Laude (2020–2024)  
+  - Minors in **Biomolecular Science** & **Mathematics**
 
-<h2 align="left">About me</h2>
+- **Research Highlights:**  
+  - **γδ T-cell Predictive Modeling:** Building models to predict **cytotoxicity and expansion potential** using single-cell RNA-seq data.  
+  - **Benchmarking Integration Pipelines:** Extensive experience with **Seurat (v4/v5)** and **Harmony** for multi-dataset scRNA-seq integration.  
+  - **AI for Healthcare:** Designed ML models for **Parkinson’s disease detection** and **heart attack risk prediction**.  
 
-###
+- **Tools & Skills:**  
+  **Python, C++, R, SQL, Seurat, scikit-learn, AWS, Docker, Kubernetes, MySQL.**
 
-<p align="left">📚 I'm currently a senior learning Computer Science B.S. at NYU Tandon School of Engineering<br>🎯 My life goal: Be part of an innovative project that make a meaningful and positive difference in people's lives<br>🎲 I was a Chemical and Biomolecular Engineering major focusing on research. Then I realized I can contribute to research even more with the power of technology. Now I'm a CS major while still pursuing a minor in Biomolecular Sciences and Math!</p>
+---
 
-###
+## 🌱 **What I’m Working On**
+- Exploring **generative AI + biology**, especially how large models can discover **preventive therapeutics**.
+- Developing **benchmarking frameworks** for rare cell type integration.
+- Combining **machine learning + computational genomics** to uncover patterns in immune responses.
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 📈 **Recent Projects**
+- **[Benchmarking Rare Cell Integration](#)** – Comparing Seurat v4/v5 & Harmony on rare immune cell populations.  
+- **[Speech Biomarkers for Parkinson’s Disease](#)** – ML models using acoustic speech features (KNN, RF, Naive Bayes).  
+- **[Heart Attack Risk Prediction](https://github.com/thuvu17/ml-train-heart-attack)** – Logistic Regression, SVM, and Neural Networks for cardiovascular risk factors.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<h2 align="left">Technology I use</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="opengl logo"  />
-  <img width="12" />
-</div>
-
-###
+---
